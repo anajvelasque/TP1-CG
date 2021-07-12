@@ -1,4 +1,4 @@
-Nome dos integrantes do grupo: Ana Julia Velasque e Vitório Marcos Abreu Rodriguês
+Nome dos integrantes do grupo: Ana Julia Velasque e Vitório Marcos
 
 
 Instruções para a compilação e execução:
