@@ -1,10 +1,9 @@
 # TP1 - Computação Gráfica 
 
-## Jogo Spider-Man World
+## Jogo: Spider-Man World
+Implementado com:
 
-## Autores:
-- [Ana Julia Velasque](https://github.com/anajvelasque)
-- Vitório Marcos
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![image](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ## Instruções para a compilação e execução:
 	Para o desenvolvimento do jogo foram utilizadas somentes as três bibliotecas básicas obrigatórias: freeglut, glew e soil. Agora como ferramenta de desenvolvimento, foi utilizado o editor de códigos Atom e o sistema operacional Windows 10. 
@@ -19,3 +18,7 @@
 - Controle via mouse (5%).
 - Fases infinitas (4%): Cada vez que o jogo começa os inimigos aparecem e atiram de forma aleatória, possibilitando situações com níveis de dificuldade diferentes.
 - Telas (até 12%): Adicionamos uma tela inicial com instruções, tela de game over e uma tela de jogo pausado.
+
+## Autores:
+- [Ana Julia Velasque](https://github.com/anajvelasque)
+- Vitório Marcos
