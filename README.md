@@ -3,7 +3,7 @@
 ## Jogo: Spider-Man World
 Implementado com:
 
-![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![image](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## Instruções para a compilação e execução:
 	Para o desenvolvimento do jogo foram utilizadas somentes as três bibliotecas básicas obrigatórias: freeglut, glew e soil. Agora como ferramenta de desenvolvimento, foi utilizado o editor de códigos Atom e o sistema operacional Windows 10. 
